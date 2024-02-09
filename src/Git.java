@@ -4,5 +4,6 @@ public class Git {
         String NAME2 = "secondcommit";
         String name3 = "thirdcommit";
         String name4 = "forthcommit";
+        System.out.println(name4);
     }
 }
