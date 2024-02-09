@@ -3,5 +3,6 @@ public class Git {
         String name1 = "firstcommit";
         String NAME2 = "secondcommit";
         String name3 = "thirdcommit";
+        String name4 = "forthcommit";
     }
 }
